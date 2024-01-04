@@ -111,7 +111,7 @@
                                 <div class="col-lg-2"></div>
                                 <div class="col-lg-6">
                                     <button type="submit" class="btn btn-success">Ubah Data</button>
-                                    <button href="<?= base_url('Mahasiswa') ?>" class="btn btn-secondary">Batal</button>
+                                    <button href="<?= site_url('Mahasiswa/') ?>" class="btn btn-secondary">Batal</button>
                                 </div>
                             </div>
                         </div>
